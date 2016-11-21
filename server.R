@@ -1,6 +1,5 @@
 library(shiny)
 library(shinyjs)
-library(RWeka)
 library(caret)
 library(mlbench)
 library(Hmisc)
